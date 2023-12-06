@@ -12,7 +12,7 @@
 
 ## Overview
 This is a personal project on Maven Marketing campaign performance,The store is a large retail supermarket that sells products ranging from edible products alongside other luxury products.
-The dataset contains marketing campaign data of 2,240 customers of Maven Maasrketing, including custoemr profiles, product, preferences, campaign successes/failures and sales channels performance
+The dataset contains information generated from 2,240 customers of Maven store, including the customer profiles, product, preferences, campaign successes/failures and sales channels performance
 
 ## Data Source
 Maven Marketing Data; The promary dataset used for this analysis is the 'Marketing data.csv' file, it contains detailed information about the customer's engagement overtime alongside other important 
