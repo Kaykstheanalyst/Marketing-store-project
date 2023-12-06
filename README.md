@@ -15,7 +15,7 @@ This is a personal project on Maven Marketing campaign performance,The store is 
 The dataset contains information generated from 2,240 customers of Maven store, including the customer profiles, product, preferences, campaign successes/failures and sales channels performance
 
 ## Data Source
-Maven Marketing Data; The promary dataset used for this analysis is the 'Marketing data.csv' file, it contains detailed information about the customer's engagement overtime alongside other important 
+Maven Marketing Data; The primary dataset used for this analysis is the 'Marketing data.csv' file, it contains detailed information about the customer's engagement overtime alongside other important 
 information
 
 ## Tools 
@@ -27,14 +27,14 @@ information
 - Data Analysis
 - Data Transformation
 - Data Visualization
--Data Manipulation
+- Data Manipulation
 
 ## Business Questions
-- What factors are signficantly related to the number of web purchases
-- Which marketing campaign was the most successful
+- What factors are signficantly related to the number of web purchases?
+- Which marketing campaign was the most successful?
 - What does the average customer look like?
-- Which products are performing best
-- Which channels are underperforming
+- Which products are performing best?
+- Which channels are underperforming?
 - Provide recommendations
 
 ## SQL Queries
@@ -310,13 +310,12 @@ FROM marketing_data$
 
 ## Recommendation from findings
 The dataset reveals that a larger percentage of the activities and features of customers that visited and have engaged Maven store overtime. The charts shows that a larger percentage of the customers
-are educated from graduate level to PhD, whilw those at the basic education level are at all time low and this is one one of the germane insight revealed by the dataset. The dataset also reveals the factors that are responsible for the number of web purchases which ranges from age bracket, education level alongside others. The chart also gave a detailed information abou the profile of an average customer at Maven
-store. The product sale performance chart shows that wine as a product is doing much more fine compared to others
+are educated largely at graduate level followed by PhD, while those at the basic education level are at all time low and this is one one of the germane insight revealed by the dataset. The dataset also reveals the factors that are responsible for the number of web purchases which ranges from age bracket, education level alongside others. The chart also gave a detailed information about the profile of an average customer at Maven store. The product sale performance chart shows that wine as a product is doing much more fine compared to others.
+
 The recommendations are as follows;
+- The systems of operation in the store should be modified in order to accommodate those at basic education level to aid sale increase (The process of making purchases should be much more simplified and seamless for them).
 
-- The systems of operation in the store should be modified in order to accommodate those at basic education level to aid sale increase (The process of making purchases should be much more simplified and seamless for them.
-
-- The marketing campaign strategy 1 has been the most effective. The first four campaign strategy can be maintained as the difference  between the success rates are not much. which makes it obvious that each of the campaigns are generating leads for the store in their respective capacity, while the last campaign (Campaign 2) can be discarded.
+- The marketing campaign strategy 1 has been the most effective. Campaign strategy 1,3,4,5 can be maintained as the difference  between the success rates are not much. which makes it obvious that each of the campaigns are generating leads for the store in their respective capacity, while the last campaign (Campaign 2) can be discarded.
 
 - The charts also reveal that the highest amount of sales is recorded in Spain with a wide margin compared to others. Probably the main store is located in Spain or discount is being given on the purchases made, this can be looked into. Whatever is done in the store at Spain that has led to such an impressive conversion rate can also be replicated in other countries.
 
